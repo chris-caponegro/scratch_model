@@ -1,0 +1,4 @@
+train: C:/vscode_projects/scratch_model/yolov5/dataset/train  # Path to training images
+val: C:/vscode_projects/scratch_model/yolov5/dataset/val    # Path to validation images
+nc: 2  # Number of classes
+names: ["not_scratched", "scratched"]  # Class names
